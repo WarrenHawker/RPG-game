@@ -1,0 +1,19 @@
+.character-area {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: max-content;
+}
+
+.character {
+  border: 1px solid black;
+}
+
+.character.active {
+  background-color: green;
+}
+
+.character.dead {
+  background-color: grey;
+}

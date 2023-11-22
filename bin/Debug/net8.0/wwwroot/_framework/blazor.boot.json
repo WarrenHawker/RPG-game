@@ -201,13 +201,13 @@
       "mscorlib.wasm": "sha256-fulnvliEXppfCKs3hbug1WEf7r+hrMahHXYtTDlQqEw=",
       "netstandard.wasm": "sha256-15TbhPuHO6z82DNneI9vkmRSgEY7ab0rw5bozN3+hCc=",
       "System.Private.CoreLib.wasm": "sha256-zgWDQQrgtSqvW6ST2rzmSFQhVW5PGbrNshBZmvpcpz8=",
-      "RPG-game.wasm": "sha256-DpNeR\/j0z8LMkq2mauqASwY5GpSQbDJ6zw7wZ+ZaNi8="
+      "RPG-game.wasm": "sha256-nPcSepPe1VN42cj6e9Emtm9j4FG6vJRGXpe6iurMuUM="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "RPG-game.pdb": "sha256-9I3jydUP6+Y+ZSbyoGLQHE+cgUeDw0stK9JOYVphRIw="
+      "RPG-game.pdb": "sha256-tJhplA5LPP+AORCAFMmWBDx0X0nCzFyJOjrmOqzZyQY="
     },
     "runtime": {
       "dotnet.js": "sha256-QX1+VeBm7AaOP\/NF5e4bvj6rlNg1lBC6J2F8Gs1L3Xg=",

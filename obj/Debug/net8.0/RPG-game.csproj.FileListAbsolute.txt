@@ -1026,3 +1026,4 @@ E:\Web Development\ACTIVE\RPG-blazor\RPG-game\obj\Debug\net8.0\RPG-game.dll
 E:\Web Development\ACTIVE\RPG-blazor\RPG-game\obj\Debug\net8.0\refint\RPG-game.dll
 E:\Web Development\ACTIVE\RPG-blazor\RPG-game\obj\Debug\net8.0\RPG-game.pdb
 E:\Web Development\ACTIVE\RPG-blazor\RPG-game\obj\Debug\net8.0\ref\RPG-game.dll
+E:\Web Development\ACTIVE\RPG-blazor\RPG-game\obj\Debug\net8.0\RPG-game.sourcelink.json
